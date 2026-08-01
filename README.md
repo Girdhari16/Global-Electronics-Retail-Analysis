@@ -38,3 +38,32 @@ The project begins with validating and assessing data quality using Python, foll
 - Around **79% of total orders** come from **offline stores**, while online contributes only **21%**. This suggests there is good potential to grow online sales through better digital marketing and customer engagement.
 
 - The business maintains a healthy **58.6% profit margin**, showing that pricing and cost management are performing well across the business.
+
+
+## ▸ Customer Analysis
+
+- The **United States** has the largest customer base with **5.2K active customers**, much higher than any other country. This shows that most of the business comes from one market.
+
+- Customers in the **55+ age group** generate the highest revenue, making them the most valuable customer segment. They should be a key focus for future marketing campaigns.
+
+- The **25–54 age groups** contribute a similar amount of revenue, showing that the business has a balanced customer base across working-age customers.
+
+- The business has **15K total customers**, out of which **12K are active**. This means most customers are still engaged, but there is room to bring inactive customers back.
+
+- On average, each customer places **1.72 orders**. Increasing repeat purchases through loyalty programs or personalized offers could help improve overall sales.
+
+- The **Top 15 customers** contribute a significant amount of revenue and maintain strong profit margins. Building long-term relationships with these high-value customers can increase customer retention and revenue.
+
+## ▸ Product & Profitability Analysis
+
+- **Computers** are the best-performing product category, generating the highest revenue and profit. They should remain the main focus for inventory and marketing.
+
+- **Home Appliances** are the second-largest contributor to revenue, making them another important category for business growth.
+
+- The top **four brands** contribute nearly **70% of total revenue**. Since the business depends heavily on these brands, maintaining strong supplier relationships is important.
+
+- **Games and Toys** generate the lowest revenue among all categories. The business should review its demand before increasing inventory in this category.
+
+- The business maintains a healthy **58.6% profit margin** with an average profit of **$165.2 per product**, showing that products are being sold at profitable prices.
+
+- The **Top 10 products** contribute a significant share of both revenue and profit. Keeping these products in stock and promoting them can help increase overall sales.
