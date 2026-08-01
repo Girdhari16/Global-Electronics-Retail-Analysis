@@ -6,20 +6,6 @@ This project presents an end-to-end Business Intelligence solution for the Globa
 
 The project begins with validating and assessing data quality using Python, followed by data preparation, modeling, exploratory data analysis, and dashboard development in Power BI. Three interactive dashboard pages were designed to analyze overall business performance, customer behavior, and product profitability, enabling decision-makers to monitor key performance indicators and identify growth opportunities.
 
-## Business Problem
-
-Global Electronics Retail operates across multiple countries, stores, brands, and product categories, generating large volumes of transactional data. However, decision-makers lack a centralized analytical solution to monitor business performance and quickly identify the factors driving revenue and profitability.
-
-Without a unified reporting system, it is difficult to:
-
-- Monitor overall sales and profit performance.
-- Identify the most profitable product categories and brands.
-- Understand customer purchasing behavior and order patterns.
-- Compare regional performance across countries.
-- Detect revenue concentration and business dependencies.
-- Support data-driven strategic and operational decisions.
-
-To address these challenges, this project develops an interactive Business Intelligence dashboard that consolidates data from multiple business entities into a single analytical platform. The solution enables stakeholders to explore sales trends, customer insights, product performance, and profitability through dynamic visualizations and KPIs.
 
 ## 🚀 Tech Stack
 
