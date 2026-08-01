@@ -23,3 +23,4 @@ The project begins with validating and assessing data quality using Python, foll
 ![image_alt](https://github.com/Girdhari16/Global-Electronics-Retail-Analysis/blob/9fc1c4fe1fcef9b1f8595841e17310f0a0129507/Dashboard%20Images/Screenshot%202026-08-01%20180759.png)
 
 ### Product & Profitability Analysis
+![image_alt](https://github.com/Girdhari16/Global-Electronics-Retail-Analysis/blob/93c00c9e368b28726864bfdea519d4d278ea33f3/Dashboard%20Images/Screenshot%202026-08-01%20180838.png)
