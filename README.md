@@ -24,3 +24,17 @@ The project begins with validating and assessing data quality using Python, foll
 
 ### Product & Profitability Analysis
 ![image_alt](https://github.com/Girdhari16/Global-Electronics-Retail-Analysis/blob/93c00c9e368b28726864bfdea519d4d278ea33f3/Dashboard%20Images/Screenshot%202026-08-01%20180838.png)
+
+### 📊 Business Insights 
+
+## ▸ Overview
+
+- The **United States** brings in the highest revenue by a large margin. This shows the business depends heavily on one market, so expanding in other countries could reduce this dependency.
+
+- Revenue falls during **March–April** but starts recovering from **May** and reaches its highest level in **December**. Since this pattern repeats, inventory and marketing campaigns should be planned before the year-end sales season.
+
+- **Computers** and **Home Appliances** generate the highest revenue, making them the strongest product categories. These products should remain the focus for promotions and inventory planning.
+
+- Around **79% of total orders** come from **offline stores**, while online contributes only **21%**. This suggests there is good potential to grow online sales through better digital marketing and customer engagement.
+
+- The business maintains a healthy **58.6% profit margin**, showing that pricing and cost management are performing well across the business.
