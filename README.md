@@ -16,4 +16,7 @@ The project begins with validating and assessing data quality using Python, foll
 
 # Dashbord Pages
 
-### Overview Page
+### Overview 
+![image alt](https://github.com/Girdhari16/Global-Electronics-Retail-Analysis/blob/7064db86ed4a351bc680478a2dcef3307958e2f4/Dashboard%20Images/Screenshot%202026-08-01%20221324.png)
+
+### Customer Performance Analysis
